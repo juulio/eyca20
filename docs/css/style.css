@@ -90,8 +90,8 @@ html {
 }
 
 button {
-  bottom: 3vw;
-  width: 135px;
+  bottom:0;
+  width: 70%;
   border: transparent;
   background-color: transparent;
   position: absolute;
@@ -101,6 +101,10 @@ button {
   left: 0;
   right: 0;
   text-align: center;
+}
+
+button img {
+  width: 100%;
 }
 
 /******************** Desktop Styles ********************/
@@ -133,11 +137,6 @@ body.desktop {
 
 .desktop button {
   cursor: pointer;
-  width: 11.66vh;
-}
-
-.desktop button img {
-  width: 11.66vh;
 }
 
 .desktop .sc__container > img,
