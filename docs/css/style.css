@@ -112,7 +112,7 @@ body.desktop {
   padding: 5vh 0;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(../img/fondo_desktop.jpg);
+  background-image: url(../img/fondo_desktop.png);
 
   cursor: url(../img/moneda.png), auto;  
 }
