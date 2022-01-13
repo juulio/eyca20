@@ -132,8 +132,12 @@ body.desktop {
 }
 
 .desktop button {
-  width: 11.66vh;
   cursor: pointer;
+  width: 11.66vh;
+}
+
+.desktop button img {
+  width: 11.66vh;
 }
 
 .desktop .sc__container > img,
