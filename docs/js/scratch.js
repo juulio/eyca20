@@ -1,6 +1,5 @@
 let sc;
-let imagesArray = ['./img/01.png', './img/02.png', './img/03.png', './img/04.png', './img/05.png', './img/06.jpg', './img/07.jpg',
- './img/08.png'];
+let imagesArray = ['./img/01.png', './img/02.jpg', './img/03.png', './img/04.png', './img/05.png', './img/06.jpg', './img/07.png'];
  
 const imagesArrayLength = imagesArray.length;
 let isMobileDevice = (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
