@@ -107,6 +107,9 @@ button img {
   width: 100%;
 }
 
+body {
+  background-color: #e2e2e8;
+}
 /******************** Desktop Styles ********************/
 /*** Javascript adds a 'desktop' class to body element **/
 
