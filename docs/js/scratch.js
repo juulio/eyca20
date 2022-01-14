@@ -159,7 +159,7 @@ else {
 scContainer.style.height = scratchContainerHeight + "px";
 
 // Run the project on pageLoad
-setupScratchCard('./img/portada.png', getRandomImagePath(), scratchContainerWidth, scratchContainerHeight);
+setupScratchCard('../img/portada.png', getRandomImagePath(), scratchContainerWidth, scratchContainerHeight);
 if (!isMobileDevice) {
     onWindowResize();
 }
