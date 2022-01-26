@@ -1,5 +1,5 @@
 let sc;
-let imagesArray = ['./img/01.png', './img/02.jpg', './img/03.png', './img/04.png', './img/05.png', './img/06.jpg', './img/07.png'];
+let imagesArray = ['./img/01.png', './img/02.jpg', './img/03.png', './img/04.png', './img/05.png', './img/06.jpg', './img/07.png', './img/ey-A.png', './img/ey-B.png', './img/ey-C.png', './img/ey-D.png', './img/ey-E.png', './img/ey-F.png', './img/ey-G.png'];
  
 const imagesArrayLength = imagesArray.length;
 let isMobileDevice = (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);

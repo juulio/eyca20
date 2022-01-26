@@ -121,7 +121,7 @@ body.desktop {
   background-repeat: no-repeat;
   background-image: url(../img/fondo_desktop.png);
 
-  cursor: url(../img/moneda.png), auto;  
+  cursor: url(../img/ey-cursor-vertical.png), auto;  
 }
 
 .desktop main {
