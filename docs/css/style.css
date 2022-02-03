@@ -124,6 +124,10 @@ body.desktop {
   cursor: url(../img/ey-cursor-vertical.png), auto;  
 }
 
+body.desktop02 {
+  background-image: url(../02/img/background_desktop_02.png);
+}
+
 .desktop main {
   height: 0;
   padding-top: 177.77%;
