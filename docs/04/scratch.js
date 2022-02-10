@@ -1,5 +1,5 @@
 let sc;
-let imagesArray = ['./img/01.png', './img/02.png', './img/03.png', './img/04.png', './img/05.png', './img/06.png', './img/07.png', './img/08.png', './img/09.png', './img/10.jpg', './img/11.jpg', './img/12.jpg',  './img/13.jpg', './img/14.jpg', './img/15.jpg', './img/16.jpg', './img/ey-A.png', './img/ey-B.png', './img/ey-C.png', './img/ey-D.png', './img/ey-E.png', './img/ey-F.png', './img/ey-G.png'];
+let imagesArray = ['./img/01.png', './img/02.png', './img/03.png', './img/04.png', './img/05.png', './img/06.png', './img/07.png', './img/08.png', './img/09.png', './img/10.jpg', './img/11.jpg', './img/12.jpg',  './img/13.jpg', './img/14.jpg', './img/15.jpg', './img/16.jpg', './img/ey-4A.png', './img/ey-4B.png', './img/ey-4C.png', './img/ey-4D.png'];
  
 const imagesArrayLength = imagesArray.length;
 let isMobileDevice = (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
